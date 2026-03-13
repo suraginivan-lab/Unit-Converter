@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер единиц</string>
+    <string name="length_converter">Длина</string>
+    <string name="weight_converter">Вес</string>
+    <string name="temperature_converter">Температура</string>
+    <string name="volume_converter">Объём</string>
+    <string name="area_converter">Площадь</string>
+    <string name="speed_converter">Скорость</string>
+    <string name="enter_value">Введите значение</string>
+    <string name="from_unit">Из единицы</string>
+    <string name="to_unit">В единицу</string>
+    <string name="result">Результат</string>
+    <string name="convert">Конвертировать</string>
+    <string name="clear">Очистить</string>
+    <string name="unit_converter">Конвертер единиц измерения</string>
+</resources>
